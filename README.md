@@ -17,8 +17,6 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="mygif" src="https://media.giphy.com/media/LQj66hMbPZnmEkTgND/giphy.gif">
 </div>
-
-  ##
  <p align="center">
     <a href="/docs/readme_fr.md">Français </a>
     ·
@@ -52,6 +50,6 @@
   <a href="https://www.linkedin.com/in/matheus-h-santos-4548461a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
   
