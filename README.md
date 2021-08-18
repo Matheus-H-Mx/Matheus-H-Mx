@@ -6,7 +6,7 @@
  <div>
   <a href="https://github.com/Matheus-H-Mx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-H-Mx&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=white"/>
+  <img height="180em" src="https://media.giphy.com/media/VbDqmJbxaeYCoM92Ow/giphy.gif"/>
 </div>
  
 <div style="display: inline_block"><br>
@@ -23,15 +23,7 @@
  
  </div>
  
- <div>
-  <p align="right">
-  <img height="100em" width="180em" src="https://media.giphy.com/media/VbDqmJbxaeYCoM92Ow/giphy.gif"/>
-  </p>
   
- </div>
- 
- </div>
- 
  ##
  
  <p align="left">
