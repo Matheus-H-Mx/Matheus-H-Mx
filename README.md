@@ -20,7 +20,7 @@
   <img align="center" alt="MX-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="MX-Sketch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg">
   <img align="center" alt="MX-GrapghQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg">
-  <img align="Right"  alt="Downloads"  src="https://img.shields.io/github/downloads/{Matheus-H-Mx}/{repo-name}/total.svg">
+  /*<img align="Right"  alt="Downloads"  src="https://img.shields.io/github/downloads/{Matheus-H-Mx}/{repo-name}/total.svg">*/
  
  </div>
  
