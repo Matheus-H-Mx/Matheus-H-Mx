@@ -20,8 +20,6 @@
  
  </div>
  
- ##
- 
  <div>
   <p align="center">
   <img height="100em" width="180em" src="https://media.giphy.com/media/VbDqmJbxaeYCoM92Ow/giphy.gif"/>
@@ -30,6 +28,8 @@
  </div>
  
  </div>
+ 
+ ##
  
  <p align="left">
     <a href="/docs/readme_fr.md">Français </a>
