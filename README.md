@@ -17,8 +17,8 @@
   <img align="center" alt="MX-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="MX-Swift" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="MX-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
- 
-  <img align="center" alt="MX-Sketch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/sketch/sketch-original.svg">
+  <img align="center" alt="MX-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  <img align="center" alt="MX-Sketch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg">
  
   <img align="center" alt="MX-GrapghQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/graphql/graphql-plain-wordmark.svg">
  
