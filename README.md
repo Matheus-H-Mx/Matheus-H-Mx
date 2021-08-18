@@ -19,13 +19,16 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  </div>
  
- <div>
+ <div><p align="center">
+  
   <img align="right" alt="mygif" src="https://media.giphy.com/media/gg2apBCrTk1T5TQoX7/giphy.gif">
+  
+  </p>
  </div>
  
  </div>
  
- <p align="center">
+ <p align="left">
     <a href="/docs/readme_fr.md">Français </a>
     ·
     <a href="/docs/readme_cn.md">简体中文</a>
