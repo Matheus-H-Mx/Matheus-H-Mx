@@ -31,8 +31,6 @@
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">                                                                                                                                       
    </div>
  
-  
- ##
  
  <p align="left">
     <a href="/docs/readme_fr.md">Français </a>
