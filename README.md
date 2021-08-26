@@ -1,5 +1,13 @@
-# Hi! I,m Matheus Henrique ! 
-## Welcome to my profile, here you see: 👇
+<div align="center">
+  <img src="https://source.unsplash.com/850x180/?softwaredeveloper" align="center" />
+</div>
+<div>
+  <br />
+  <p>
+  I am a passionate Mobile software developer from Brazil. I love complex and challenging projects and whenever I can, Various projects will come ,see you soon. If you would like to learn more about me, please feel free to <a href="Math.ADS@outlook.com" target="_blank">contact me</a>.
+  </p>
+  <br />
+</div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
@@ -20,8 +28,8 @@
   <img align="center" alt="MX-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="MX-Sketch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg">
   <img align="center" alt="MX-GrapghQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg">
- 
- </div>
+  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/figma/figma-original.svg">                                                                                                                                       
+   </div>
  
   
  ##
