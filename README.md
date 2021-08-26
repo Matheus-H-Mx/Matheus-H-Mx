@@ -1,3 +1,4 @@
+#README
 <div align="center">
   <img src="https://source.unsplash.com/850x180/?softwaredeveloper" align="center" />
 </div>
@@ -17,7 +18,7 @@
   <img height="180em" src="https://media.giphy.com/media/VbDqmJbxaeYCoM92Ow/giphy.gif"/>  
 </div>
   
- # Softwares and languages than i have compression:
+ ## Softwares and languages than i have compression:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="MX-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
