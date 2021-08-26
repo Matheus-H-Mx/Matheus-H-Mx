@@ -4,7 +4,7 @@
 <div>
   <br />
   <p>
-  I am a passionate Mobile software developer from Brazil. I love complex and challenging projects and whenever I can,I will connect here and Various projects will come ,see you soon. If you would like to learn more about me, please feel free to <a href="www.Math.ADS@outlook.com" target="_blank">contact me</a>.
+  I am a passionate Mobile software developer from Brazil. I love complex and challenging projects and whenever I can,I will connect here and Various projects will come ,see you soon. If you would like to learn more about me, please feel free to <a href="https://Math.ADS@outlook.com" target="_blank">contact me</a>.
   </p>
   <br />
 </div>
