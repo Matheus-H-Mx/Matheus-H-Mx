@@ -34,6 +34,9 @@
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">                                                                                                                                       
    </div>
  
+  <p>
+  </p>
+  
  <p align="left">
     <a href="/docs/readme_fr.md">Français </a>
     ·
@@ -58,4 +61,3 @@
   <a href="https://math.h.mx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-h-santos-4548461a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  
