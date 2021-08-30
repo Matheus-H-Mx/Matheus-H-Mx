@@ -1,4 +1,4 @@
-# Bio:
+# Hello you can call me Matheus Henri see more about me below:
 <div align="center">
   <img src="https://source.unsplash.com/850x180/?softwaredeveloper" align="center" />
 </div>
@@ -37,15 +37,10 @@
   </p>
   
  <p align="left">
-    <a href="/docs/readme_fr.md">Français </a>
     ·
     <a href="/docs/readme_cn.md">简体中文</a>
     ·
-    <a href="/docs/readme_es.md">Español</a>
-    ·
     <a href="/docs/readme_ja.md">日本語</a>
-    ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
     ·
     <a href="/docs/readme_kr.md">한국어</a>
     .
