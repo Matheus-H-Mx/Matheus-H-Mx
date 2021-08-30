@@ -1,4 +1,4 @@
-# Hello 👋🏻 you can call me Matheus Henri see more about me below👇🏻:
+# Hello 👋🏻 you can call me Matheus Henri see more about me below:
 <div align="center">
   <img src="https://source.unsplash.com/850x180/?softwaredeveloper" align="center" />
 </div>
