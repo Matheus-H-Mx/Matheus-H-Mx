@@ -49,8 +49,6 @@
    <a href="https://github.com/Matheus-H-Mx/ReadMe-Variants/blob/main/README-Ni.md">नेपाली-🇮🇳</a>
     .
    <a href="https://github.com/Matheus-H-Mx/ReadMe-Variants/blob/main/README-IL.md">עִברִית-🇮🇱</a>
-    .
-   <a href="https://github.com/Matheus-H-Mx/Matheus-H-Mx">Inglish-🇺🇸</a>
   </p>
  
   
