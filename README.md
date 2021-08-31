@@ -46,7 +46,7 @@
     ·
     <a href="https://github.com/Matheus-H-Mx/ReadMe-Variants/blob/main/README-KOR.md">한국어</a>
     .
-   <a href="https://github.com/Matheus-H-Mx/ReadMe-Variants/blob/main/README-NI.md">नेपाली</a>
+   <a href="https://github.com/Matheus-H-Mx/ReadMe-Variants/blob/main/README-NP.md">नेपाली</a>
     .
    <a href="https://github.com/Matheus-H-Mx/ReadMe-Variants/blob/main/README-IL.md">עִברִית</a>
   </p>
