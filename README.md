@@ -16,8 +16,8 @@
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <div>
   <a href="https://github.com/Matheus-H-Mx"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-H-Mx&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://media.giphy.com/media/VbDqmJbxaeYCoM92Ow/giphy.gif"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Matheus-H-Mx&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://media.giphy.com/media/VbDqmJbxaeYCoM92Ow/giphy.gif"/>
 </div>
   
  ## Softwares and languages than i have comprehension and interest:
